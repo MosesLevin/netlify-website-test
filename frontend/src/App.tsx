@@ -25,7 +25,14 @@ function App() {
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
       </div>
-      <p className="read-the-docs">HoolaHoops</p>
+      <ul className="read-the-docs">
+        <h1>Cool cool cool list :</h1>
+        <li>Pinguini's Casa</li>
+        <li>Hamm</li>
+        <li>Schnuffeluff</li>
+        <li>Puffelpuff</li>
+      </ul>
+      <p className="read-the-docs">Hoogachaka hooga hooga</p>
     </>
   )
 }
